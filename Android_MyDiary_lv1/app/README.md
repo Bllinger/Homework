@@ -13,4 +13,4 @@ MyDiary
 * 采用Material Design UI设计
 
 ####App GIF动态演示
-![](https://github.com/Bllinger/Homework/Image/GIF.gif)
+![](https://github.com/Bllinger/Homework/blob/master/Android_MyDiary_lv1/Image/GIF.gif)
